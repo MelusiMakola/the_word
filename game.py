@@ -1,7 +1,7 @@
 # Word guessing game!! Guess The Word & be the winner
 # M N Makola 2023 (Python)
 
-from random import randrange #I import randrange to randomize the secret word
+from random import randrange 
 from words import secret_words, clues
 
 
